@@ -21,7 +21,7 @@ body {
 @media screen and (max-width: 576px) {
   .hp1 {
     float: none;
-      display: block;
+      display: inline-block;
     width: 100%;
   }
 }
