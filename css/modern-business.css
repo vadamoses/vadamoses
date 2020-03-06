@@ -10,7 +10,6 @@ body {
 .hp1 {
     width: 100%;
     background-color: rgba(138, 255, 109, 0.51);
-/*    padding: 10px 10px 10px;*/
     margin-right: auto;
     margin-left: auto;    
     display: flex;
@@ -21,7 +20,8 @@ body {
 @media screen and (max-width: 576px) {
   .hp1 {
     float: none;
-      display: inline-block;
+    margin: 10px 25px 10px;
+    display: inline-block;
     width: 100%;
   }
 }
